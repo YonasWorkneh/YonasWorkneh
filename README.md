@@ -1,9 +1,9 @@
-👋 Hi there! I’m Yonas Workneh, a passionate developer specializing in NextJS. I love creating innovative web applications, engaging user interfaces and collaborating on open-source projects. Always eager to learn and grow, I’m excited about tackling new challenges!<br><br>Let’s connect!
+#👋 Hi there! I’m Yonas Workneh, a passionate developer specializing in NextJS. I love creating innovative web applications, engaging user interfaces and collaborating on open-source projects. Always eager to learn and grow, I’m excited about tackling new challenges!<br><br>Let’s connect!
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonna_hill) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-workneh-44253327b) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonna_hill) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yonna_hill)
 
 # 💻 Tech Stack:
