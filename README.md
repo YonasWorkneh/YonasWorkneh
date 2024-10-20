@@ -1,4 +1,4 @@
-#👋 Hi there! I’m Yonas Workneh, a passionate developer specializing in NextJS. I love creating innovative web applications, engaging user interfaces and collaborating on open-source projects. Always eager to learn and grow, I’m excited about tackling new challenges!<br><br>Let’s connect!
+# 👋 Hi there! I’m Yonas Workneh, a passionate developer specializing in NextJS. I love creating innovative web applications, engaging user interfaces and collaborating on open-source projects. Always eager to learn and grow, I’m excited about tackling new challenges!<br><br>Let’s connect!
 
 
 ## 🌐 Socials:
