@@ -13,7 +13,7 @@
 
 ## 👋 Summary
 
-Accomplished Software Engineer with experience building scalable web and mobile applications across multiple real-world projects.
+Thriving Software Engineer with experience building scalable web and mobile applications across multiple real-world projects.
 
 Specialized in **React, Next.js, React Native, and TypeScript**, with strong backend skills in **Node.js, Python, and PostgreSQL**. Passionate about building performant systems, clean architecture, and delivering impactful digital solutions.
 
