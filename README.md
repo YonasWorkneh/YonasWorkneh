@@ -3,10 +3,10 @@
 
 <p align="center">
   🇪🇹 Addis Ababa, Ethiopia · 🌍 Open to Global Opportunities <br/>
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> ·
-  <a href="https://github.com/yourusername">GitHub</a> ·
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="mailto:yonas.workneh.d@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/yonas-workneh">LinkedIn</a> ·
+  <a href="https://github.com/YonasWorkneh">GitHub</a> ·
+  <a href="https://yonasw.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -36,34 +36,32 @@ Specialized in **React, Next.js, React Native, and TypeScript**, with strong bac
 ### DevOps & Tools
 - Git, GitHub Actions, Docker  
 - AWS, Vercel, Firebase  
-- Jest, Cypress, React Testing Library, Lighthouse  
+- Jest, React Testing Library
 - Figma, VS Code  
 
 ---
 
 ## 🏆 Awards
 
-🏅 **Web Guru Awards — Guru Of The Day (GOTD)**  
-📅 May 28, 2025  
-🔗 https://www.webguruawards.com/sites/your-portfolio  
+🏅 **Gresfet 2024 Winner — P2P XRPL Solution**  
+📅 Oct 28, 2024  
 
 ---
 
 ## 💼 Work Experience
 
-### Company Name — Front-End Developer  
-📍 Location · 🗓 Duration  
+### Horizon Tech ICT — React Native Developer  
+📍 Addis Ababa · 🗓 Sep 2025 - present 
 🔗 https://company.com  
 
-- Built and optimized modern web applications  
+- Built and optimized several mobile apps
 - Designed scalable front-end architecture  
-- Improved performance and user experience  
-- Implemented CI/CD pipelines  
+- Improved performance and user experience   
 
 ---
 
-### Company Name — Full-Stack Developer  
-📍 Location · 🗓 Duration  
+### YBS Software — Full-Stack Developer  
+📍 UAE , Dubai · 🗓 July 2023 - Aug 2025 
 
 - Developed full-stack systems using modern technologies  
 - Integrated APIs and payment systems  
@@ -73,17 +71,17 @@ Specialized in **React, Next.js, React Native, and TypeScript**, with strong bac
 
 ## 🚀 Key Projects
 
-### Project Name  
-🔗 https://yourproject.com  
+### Boingo.Ai 
+🔗 https://boingo.ai
 
-- Built using React / Next.js / Tailwind  
+- Built using React / Tailwind  
 - Implemented authentication, dashboards, and APIs  
-- Scaled to multiple users  
+- Implemented language support 
 
 ---
 
-### Project Name  
-🔗 https://yourproject.com  
+### Aromax Trading 
+🔗 https://aromaxtrading.com  
 
 - Designed and developed end-to-end system  
 - Improved efficiency and automation  
@@ -92,9 +90,9 @@ Specialized in **React, Next.js, React Native, and TypeScript**, with strong bac
 
 ## 🎓 Education
 
-**Your University Name**  
+**Addis Ababa Science and Technology University**  
 🎓 Bachelor’s Degree in Software Engineering  
-⭐ GPA: X.X  
+⭐ GPA: 3.8  
 
 ---
 
