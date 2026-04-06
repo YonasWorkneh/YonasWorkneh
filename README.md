@@ -1,4 +1,4 @@
-<h1 align="center">Your Name</h1>
+<h1 align="center">Yonas Workneh</h1>
 <h3 align="center">Senior Front-End / Full-Stack Software Engineer</h3>
 
 <p align="center">
