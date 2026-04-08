@@ -30,7 +30,7 @@ Specialized in **React, Next.js, React Native, and TypeScript**, with strong bac
 - Tailwind CSS, Bootstrap, GraphQL, Express.js  
 
 ### Backend & Databases
-- Node.js, Python (Django)  
+- Node.js
 - PostgreSQL, MongoDB, Firebase, Redis  
 
 ### DevOps & Tools
