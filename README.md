@@ -84,7 +84,15 @@ Specialized in **React, Next.js, React Native, and TypeScript**, with strong bac
 🔗 https://aromaxtrading.com  
 
 - Designed and developed end-to-end system  
-- Improved efficiency and automation  
+- Improved efficiency and automation
+
+---
+
+### Epicure
+🔗 https://github.com/YonasWorkneh/Epicure
+
+Built a recipe and cooking platform with rich video-based content
+Integrated step-by-step cooking guides and instructional videos
 
 ---
 
