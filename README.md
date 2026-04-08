@@ -1,5 +1,5 @@
 <h1 align="center">Yonas Workneh</h1>
-<h3 align="center">Senior Front-End / Full-Stack Software Engineer</h3>
+<h3 align="center">Senior Next.js / React native Engineer</h3>
 
 <p align="center">
   🇪🇹 Addis Ababa, Ethiopia · 🌍 Open to Global Opportunities <br/>
